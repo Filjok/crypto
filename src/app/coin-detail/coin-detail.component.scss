@@ -1,0 +1,18 @@
+*{
+    color: white;
+}
+
+.btn-custom{
+    color: white;
+    background: transparent;
+    font-weight: 400;
+    font-size: 18px;
+    border: 1px solid white;
+    width: 23%;
+}
+.btn-custom:focus{
+    background: rgb(68, 158, 231);
+    font-weight: 700;
+    font-size: 18px;
+    border: 1px solid rgb(68, 158, 231);
+}
